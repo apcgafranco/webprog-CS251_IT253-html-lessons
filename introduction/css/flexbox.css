@@ -1,0 +1,22 @@
+.container_flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: DodgerBlue;
+  margin-bottom: 20px;
+}
+
+.container_flex a {
+  background-color: #f1f1f1;
+  color: black;
+  text-decoration: none;
+  width: 150px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.container_flex a:hover {
+  background-color: #ddd;
+}
